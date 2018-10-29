@@ -1,2 +1,2 @@
 # Mino
-I don't know what's it, but some cool.
+I don't know what's it, but it is cool.
